@@ -64,7 +64,7 @@ const NODE_URL = [
 ];
 
 const contractAddress = {
-  JPYC: "0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c",
+  JPYC: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
   USDC: "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
   MATIC: "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
   routerQuick: "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff",
