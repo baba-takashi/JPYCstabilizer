@@ -70,8 +70,8 @@ const contractAddress = {
   routerQuick: "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff",
   pairQuick: "0x59377dbd9f550568540cae0b21412bee1cc3f439",
   routerSushi: "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506",
-  pairSushi: "0xfbae8e2d04a67c10047d83ee9b8aeffe7f6ea3f4",
-  pairMATIC_JPYC: "0x7105f0e4a000fae92b1299734b18e7d375968371",
+  pairSushi: "0x155F7746e738522a0e8587832bA6B594B078143a",
+  pairMATIC_JPYC: "0x85ee8f07dd203786401066b36f6fa7bac505ecab",
   pairMATIC_USDC: "0x6e7a5fafcec6bb1e78bae2a1f0b612012bf14827",
 };
 
