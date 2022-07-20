@@ -45,14 +45,14 @@ const NODE_URL = [
 ];
 
 const contractAddress = {
-  JPYC: "0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c",
+  JPYC: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
   USDC: "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
   MATIC: "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
   routerQuick: "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff",
-  pairQuick: "0x205995421C72Dc223F36BbFad78B66EEa72d2677",
+  pairQuick: "0x59377dbd9f550568540cae0b21412bee1cc3f439",
   routerSushi: "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506",
-  pairSushi: "0xfbae8e2d04a67c10047d83ee9b8aeffe7f6ea3f4",
-  pairMATIC_JPYC: "0x7105f0e4a000fae92b1299734b18e7d375968371",
+  pairSushi: "0x155F7746e738522a0e8587832bA6B594B078143a",
+  pairMATIC_JPYC: "0x85ee8f07dd203786401066b36f6fa7bac505ecab",
   pairMATIC_USDC: "0x6e7a5fafcec6bb1e78bae2a1f0b612012bf14827",
 };
 
