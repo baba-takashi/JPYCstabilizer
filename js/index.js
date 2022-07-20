@@ -795,7 +795,7 @@ const updateLiquidity = () => {
  * check if latest version is available. then reload.
  */
 const checkLatestVersion = () => {
-  fetch("https://nuko973663.github.io/JPYCstabilizer/version.json").then(
+  fetch("https://baba-takashi.github.io/JPYCstabilizer/version.json").then(
     (res) => {
       if (res.ok) {
         res.json().then((j) => {
